@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SAA - Traditional Hausa Kaftans</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #111;
+            color: white;
+        }
+        header {
+            background: gold;
+            color: black;
+            text-align: center;
+            padding: 20px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+        .hero {
+            text-align: center;
+            padding: 50px;
+            background: url('https://your-image-link.com/hero-image.jpg') no-repeat center center/cover;
+            height: 400px;
+        }
+        .about {
+            text-align: center;
+            margin-top: 30px;
+        }
+        .gallery {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            margin-top: 30px;
+        }
+        .gallery img {
+            width: 30%;
+            margin-bottom: 20px;
+            border-radius: 10px;
+        }
+        .ceo-section {
+            text-align: center;
+            margin-top: 50px;
+        }
+        .ceo-section img {
+            width: 200px;
+            border-radius: 10px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: gold;
+            color: black;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        SAA - Traditional Hausa Kaftans
+    </header>
+    <div class="hero">
+        <!-- Hero section with background image -->
+    </div>
+    <div class="container">
+        <div class="about">
+            <h2>Why Choose SAA?</h2>
+            <p>At SAA, we don’t just make clothing—we craft a legacy. Our kaftans are bold, elegant, and infused with the rich cultural heritage of the Hausa people.</p>
+            <h3>Our Inspiration</h3>
+            <p>Rooted in the richness of Hausa culture, our designs blend timeless tradition with a modern, sophisticated edge. Each kaftan tells a story of elegance and prestige.</p>
+            <h3>What Sets Us Apart?</h3>
+            <ul>
+                <li><strong>Unrivaled Craftsmanship</strong> – Every kaftan is a masterpiece, tailored with precision for a flawless fit.</li>
+                <li><strong>Exclusive, One-of-a-Kind Designs</strong> – No replicas, no imitations. Each piece is as unique as you.</li>
+                <li><strong>Luxury Meets Culture</strong> – Bold, regal, and unforgettable, ensuring you always stand out.</li>
+                <li><strong>Designed to Impress</strong> – Featuring striking embroidery, rich fabrics, and powerful colors.</li>
+                <li><strong>The Future of Traditional Fashion</strong> – Redefining modern Hausa fashion with innovation and artistry.</li>
+            </ul>
+            <h3>A New Brand Making Waves</h3>
+            <p>SAA is here to revolutionize traditional fashion. We are setting new standards with fresh, dynamic approaches to Hausa fashion.</p>
+            <h3>The Ultimate Gentleman’s Choice</h3>
+            <p>A true gentleman doesn’t just wear clothes—he wears confidence, tradition, and power. Choose SAA to embody sophistication and heritage.</p>
+        </div>
+        <div class="gallery">
+            <img src="https://your-image-link.com/kaftan1.jpg" alt="Kaftan Design 1">
+            <img src="https://your-image-link.com/kaftan2.jpg" alt="Kaftan Design 2">
+            <img src="https://your-image-link.com/kaftan3.jpg" alt="Kaftan Design 3">
+        </div>
+        <div class="ceo-section">
+            <h2>Meet the CEO</h2>
+            <img src="/mnt/data/GetAttachmentThumbnail.jpg" alt="CEO Image">
+            <p><strong>Sadiq Abdulrahman Abuyaro</strong></p>
+            <p>The visionary behind SAA, Sadiq is dedicated to redefining Hausa fashion with a unique blend of tradition and modern elegance. His passion for craftsmanship, exclusivity, and innovation has positioned SAA as the go-to brand for bold and sophisticated kaftans.</p>
+        </div>
+    </div>
+    <footer>
+        &copy; 2025 SAA. All Rights Reserved.
+    </footer>
+</body>
+</html>
